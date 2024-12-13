@@ -1,5 +1,5 @@
 #Ignore folders
-**/New_Repository/
-**/Learning JS/
-**/node_modules
-**/Test
+Learning JS/
+New_Repository/
+node_modules/
+Test/
